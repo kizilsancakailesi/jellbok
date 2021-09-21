@@ -45,8 +45,8 @@ async def start(client, message):
                  InlineKeyboardButton("「 ɪɴғᴏ 」", callback_data="about"),
             ],
             [
-                InlineKeyboardButton("「 ᴍɪsᴇʀʏ ᴏғғɪᴄɪᴀʟ 」", url=f"https://t.me/MiSERYOFFiCiAL"),
-                InlineKeyboardButton("「 ᴍɪsᴇʀʏ sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/MiserySupport"),
+                InlineKeyboardButton("「 ᴍɪsᴇʀʏ ᴏғғɪᴄɪᴀʟ 」", url=f"https://t.me/kizilsancakbilgi"),
+                InlineKeyboardButton("「 ᴍɪsᴇʀʏ sᴜᴘᴘᴏʀᴛ 」", url=f"https://t.me/kizilsancak"),
             ],
             [
                InlineKeyboardButton("「•ᴀᴅᴅ ᴛᴏ ʏᴏᴜʀ ᴄʜᴀᴛ•」 ", url=f"https://t.me/{BOT_USERNAME}?startgroup=true"),
